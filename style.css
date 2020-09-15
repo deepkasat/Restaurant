@@ -9,7 +9,7 @@
 }
 /*Header Section Styling*/
 .header{
-    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(/Images/Headerrr.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(Images/Headerrr.jpg);
     background-size: cover;
     height: 100vh;
     background-attachment: fixed;
