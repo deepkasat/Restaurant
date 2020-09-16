@@ -418,3 +418,9 @@ form input[type=submit]:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.9);
     
 }
+
+
+.fot-followus ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
